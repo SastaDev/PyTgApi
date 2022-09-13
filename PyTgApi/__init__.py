@@ -207,5 +207,5 @@ __credits__ = '''
 
 GitHub-Repo: https://github.com/SastaDev/PyTgApi.
 
-PyTgApi help-support group on telegram: https://telegram.dog/HelpSupportChat.
+PyTgApi support group on telegram: https://telegram.dog/HelpSupportChat.
 '''
