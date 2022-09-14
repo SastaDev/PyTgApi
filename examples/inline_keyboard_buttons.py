@@ -1,4 +1,4 @@
-# buttons.py
+# inline_keyboard_buttons.py
 # Once the user send /start, bot will reply user with inline and url keyboard buttons to that '/start' sent message.
 
 # Import TelegramBot and Button.
